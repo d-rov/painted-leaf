@@ -34,6 +34,15 @@
 # Visual Studio cache directory
 .vs/
 
+# vscode config file
+.vscode
+
+# jetbrains config file
+.idea
+
+# OSX junk
+.DS_STORE
+
 # Gradle cache directory
 .gradle/
 
